@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: yellow;
+    padding: 15px;
+    margin: 10px;
+}
+
+header a{
+    background-color: lightblue;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px
+}
+
+h1 {
+    text-align: center;
+    color: green;
+}
+
+footer img {
+    padding: 10px;
+}
